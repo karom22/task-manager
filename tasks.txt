@@ -1,2 +1,2 @@
-- Set up Git repository
+- Setup update Git repository
 - Practice Git branching
